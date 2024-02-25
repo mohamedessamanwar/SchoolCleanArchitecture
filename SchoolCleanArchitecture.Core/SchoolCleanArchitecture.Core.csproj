@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SchoolCleanArchitecture.Domain\SchoolCleanArchitecture.Domain.csproj" />
+    <ProjectReference Include="..\SchoolCleanArchitecture.Infrastructure\SchoolCleanArchitecture.Infrastructure.csproj" />
+    <ProjectReference Include="..\SchoolCleanArchitecture.Services\SchoolCleanArchitecture.Services.csproj" />
+  </ItemGroup>
+
+</Project>

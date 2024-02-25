@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "KKoMCq7nnqHMaYY+Rn5Ma7UCsU0ga6Y6vUCrBjGgwDMqe1wVPWdw29WYzIjuqhzhP9cyJcLjIU/ZUDikI9z9Mg==",
+  "success": true,
+  "projectFilePath": "F:\\SchoolCleanArchitecture\\SchoolCleanArchitecture.Services\\SchoolCleanArchitecture.Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AL-FAJR\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\AL-FAJR\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\AL-FAJR\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
