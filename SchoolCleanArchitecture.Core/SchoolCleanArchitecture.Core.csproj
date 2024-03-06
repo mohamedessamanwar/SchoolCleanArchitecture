@@ -12,4 +12,20 @@
     <ProjectReference Include="..\SchoolCleanArchitecture.Services\SchoolCleanArchitecture.Services.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Features\Student\Handelrs\Commands\" />
+    <Folder Include="Features\Student\Requsts\Commands\" />
+    <Folder Include="Exptions\" />
+    <Folder Include="Validations\StudentValidations\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="12.0.0" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.0" />
+    <PackageReference Include="FluentValidation" Version="11.0.0" />
+    <PackageReference Include="FluentValidation.DependencyInjectionExtensions" Version="11.0.0" />
+    <PackageReference Include="MediatR" Version="11.1.0" />
+    <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="11.0.0" />
+  </ItemGroup>
+
 </Project>

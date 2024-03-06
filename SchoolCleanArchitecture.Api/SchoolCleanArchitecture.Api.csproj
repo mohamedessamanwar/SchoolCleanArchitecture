@@ -13,6 +13,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\SchoolCleanArchitecture.Core\SchoolCleanArchitecture.Core.csproj" />
+    <ProjectReference Include="..\SchoolCleanArchitecture.Services\SchoolCleanArchitecture.Services.csproj" />
   </ItemGroup>
 
 </Project>
