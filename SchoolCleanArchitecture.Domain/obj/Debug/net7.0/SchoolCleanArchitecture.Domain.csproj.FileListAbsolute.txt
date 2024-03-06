@@ -1,0 +1,12 @@
+F:\SchoolCleanArchitecture\SchoolCleanArchitecture.Domain\bin\Debug\net7.0\SchoolCleanArchitecture.Domain.deps.json
+F:\SchoolCleanArchitecture\SchoolCleanArchitecture.Domain\bin\Debug\net7.0\SchoolCleanArchitecture.Domain.dll
+F:\SchoolCleanArchitecture\SchoolCleanArchitecture.Domain\bin\Debug\net7.0\SchoolCleanArchitecture.Domain.pdb
+F:\SchoolCleanArchitecture\SchoolCleanArchitecture.Domain\obj\Debug\net7.0\SchoolCleanArchitecture.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\SchoolCleanArchitecture\SchoolCleanArchitecture.Domain\obj\Debug\net7.0\SchoolCleanArchitecture.Domain.AssemblyInfoInputs.cache
+F:\SchoolCleanArchitecture\SchoolCleanArchitecture.Domain\obj\Debug\net7.0\SchoolCleanArchitecture.Domain.AssemblyInfo.cs
+F:\SchoolCleanArchitecture\SchoolCleanArchitecture.Domain\obj\Debug\net7.0\SchoolCleanArchitecture.Domain.csproj.CoreCompileInputs.cache
+F:\SchoolCleanArchitecture\SchoolCleanArchitecture.Domain\obj\Debug\net7.0\SchoolCleanArchitecture.Domain.sourcelink.json
+F:\SchoolCleanArchitecture\SchoolCleanArchitecture.Domain\obj\Debug\net7.0\SchoolCleanArchitecture.Domain.dll
+F:\SchoolCleanArchitecture\SchoolCleanArchitecture.Domain\obj\Debug\net7.0\refint\SchoolCleanArchitecture.Domain.dll
+F:\SchoolCleanArchitecture\SchoolCleanArchitecture.Domain\obj\Debug\net7.0\SchoolCleanArchitecture.Domain.pdb
+F:\SchoolCleanArchitecture\SchoolCleanArchitecture.Domain\obj\Debug\net7.0\ref\SchoolCleanArchitecture.Domain.dll
