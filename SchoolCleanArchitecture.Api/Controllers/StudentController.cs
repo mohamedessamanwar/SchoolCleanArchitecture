@@ -27,6 +27,7 @@ namespace SchoolCleanArchitecture.Api.Controllers
         [HttpGet("{id}")]
         public async Task<ActionResult> GetStudent(int id)
         {
+        //
             var response = await _mediator.Send(new GetStudentRequst { Id=id});
             return Ok(response);
 
